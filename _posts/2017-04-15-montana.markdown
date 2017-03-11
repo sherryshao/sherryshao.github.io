@@ -1,0 +1,13 @@
+---
+layout: post
+title: Montaña
+date:   2017-03-25 12:49:30
+categories: illustrations
+image: /assets/article_images/2017-04-15-montana/big_montana.JPG
+image2: /assets/article_images/2017-04-15-montana/big_montana_mobile.JPG
+excerpt: 'An illustration of impressive mountains, or rather, impressed humans.'
+---
+
+The following illustrates how impressed I am with the Rockies as I've never actually been close to it in the 15 years of living in British Columbia, until now.
+
+![Porque]({{ site.url }}/assets/article_images/2017-04-15-montana/Montana.JPG)
