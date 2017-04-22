@@ -1,0 +1,13 @@
+---
+layout: post
+title: Hugs
+date:   2017-04-22 16:25:30
+categories: illustrations
+image: /assets/article_images/2017-04-22-hugs/walk.jpg
+image2: /assets/article_images/2017-04-22-hugs/walk.jpg
+excerpt: 'A particularly fond memory for both my dad and I.'
+---
+
+At almost every family dinner, my dad has, without fail, brought up a particularly fond memory he has of me as a child. Here's what I had gathered from it:
+
+![Simply "No"]({{ site.url }}/assets/article_images/2017-04-22-hugs/Hugs.JPG)
