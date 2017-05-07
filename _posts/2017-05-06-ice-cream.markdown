@@ -1,0 +1,11 @@
+---
+layout: post
+title: Ice cream
+date:   2017-05-06 23:39:40
+categories: illustrations
+image: /assets/article_images/2017-05-06-ice-cream/chocolate-ice-cream.jpg
+image2: /assets/article_images/2017-05-06-ice-cream/chocolate-ice-cream-mobile.jpg
+excerpt: 'Ice cream. Most delicious, most rewarding, after a long, stressful day.'
+---
+
+![Tragic]({{ site.url }}/assets/article_images/2017-05-06-ice-cream/ice-cream.JPG)
