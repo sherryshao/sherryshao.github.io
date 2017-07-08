@@ -1,0 +1,13 @@
+---
+layout: post
+title: Vacation
+date:   2017-07-08 13:42:35
+categories: illustrations
+image: /assets/article_images/2017-07-08-vacation/beach.JPG
+image2: /assets/article_images/2017-07-08-vacation/beach-mobile.JPG
+excerpt: 'The ideal vacation: beaches, soft sand, nonstop swirling between waves, beautiful people running in slow motion.'
+---
+
+We just got back from an amazing vacation in Bermuda - the sand is pink, the air is warm, and the waves are endless. Our entire photo album from the trip looked flawless, we glistened under the Bermudian sun and I could almost hear our laughter emitting from the photos. That is, until I discovered our GoPro footage and was quickly reminded of what really went down in Bermuda.
+
+![Children. We're children.]({{ site.url }}/assets/article_images/2017-07-08-vacation/vacation.jpg)
