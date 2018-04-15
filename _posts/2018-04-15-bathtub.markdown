@@ -1,0 +1,17 @@
+---
+layout: post
+title: Bathtubs
+date:   2018-04-15 18:57:42
+categories: illustrations
+image: /assets/article_images/2018-04-15-bathtub/candlelight.jpg
+image2: /assets/article_images/2018-04-15-bathtub/candlelight_mobile.jpg
+excerpt: 'A bath-salts-filled sanctuary, made for utmost relaxation - when executed correctly.'
+---
+
+I very rarily take baths, but whenever I'm about to, I dream about a nice and lavendar-scented bathroom invaded by marvelous steam and candlelight.
+
+![Infactual fantasy]({{ site.url }}/assets/article_images/2018-04-15-bathtub/bathtub-fantasy.JPG)
+
+Obviously, that's not the case even if I tried:
+
+![Real life stories hurt.]({{ site.url }}/assets/article_images/2018-04-15-bathtub/bathtub-reality.JPG)
