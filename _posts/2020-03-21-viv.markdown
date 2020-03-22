@@ -1,0 +1,13 @@
+---
+layout: post
+title: ビビアン
+date:   2020-03-21 19:46:22
+categories: illustrations
+image: /assets/article_images/2020-03-21-viv/japan.JPG
+image2: /assets/article_images/2020-03-21-viv/japan.JPG
+excerpt: 'My sister, Vivien'
+---
+
+Viv's been in Japan for a little while now, and while I am not able to tease her on a daily basis, I am able to make drawings to reminisce when she used to be freakin' adorable. Used to.
+
+![BABY VIV]({{ site.url }}/assets/article_images/2020-03-21-viv/VIV.JPG)
