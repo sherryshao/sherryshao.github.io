@@ -1,0 +1,13 @@
+---
+layout: post
+title: 邵鵬飛
+date:   2020-04-26 16:52:58
+categories: illustrations
+image: /assets/article_images/2020-04-26-gab/cool-gab.JPG
+image2: /assets/article_images/2020-04-26-gab/cool-gab.JPG
+excerpt: 'My brother, Gabriel'
+---
+
+As university is drawing to a close for my youngest sibling, I can't help but wander down memory lane and rediscover some old photos. Let me tell you, this boy playing with sand instead of participating in the active softball game he's in is actually the cutest thing I've ever seen.
+
+![LOOK AT THOSE CHEEKS]({{ site.url }}/assets/article_images/2020-04-26-gab/GAB.JPEG)
