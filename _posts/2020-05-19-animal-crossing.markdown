@@ -12,4 +12,4 @@ In times of quarantine, comes Animal Crossing: New Horizons - a reimagined class
 
 I am quite addicted to the game, and I admire all the little details Nintendo has put into it. The one thing I cannot seem to get over, though, is the fact that I could shove a megaton of bugs, fish and objects I can collect from the game, waddle my way into Nook's Cranny, and sell them. Below is sort of how I imagine that process would go down:
 
-![What the shit kind of pocket tolerates this]({{ site.url }}/assets/article_images/2020-05-19-animal-crossing/animal-crossing.JPG)
+![Animal Crossing: New Horizons and the Inexplicably Large Pocket]({{ site.url }}/assets/article_images/2020-05-19-animal-crossing/animal-crossing.JPG)
