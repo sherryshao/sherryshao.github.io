@@ -1,0 +1,14 @@
+---
+layout: post
+title: Oh Bo
+date:   2021-11-01 19:22:53
+categories: illustrations
+image: /assets/article_images/2021-11-01-oh-bo/all-time-low.JPG
+image2: /assets/article_images/2021-11-01-oh-bo/all-time-low.JPG
+excerpt: 'Channeling Bo Burnham in quarantine'
+---
+
+We wouldn't want to miss the chance to channel Mr. Burnham in quarantine, now do we?
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QCHVkiK69tQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
