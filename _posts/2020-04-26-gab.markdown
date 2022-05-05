@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 邵鵬飛
+title: '🎨 邵鵬飛'
 date:   2020-04-26 16:52:58
 categories: illustrations
 image: /assets/article_images/2020-04-26-gab/cool-gab.JPG

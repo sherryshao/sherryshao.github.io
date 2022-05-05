@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Oh Bo
+title: '🎶 Oh Bo'
 date:   2021-11-01 19:22:53
-categories: illustrations
+categories: music
 image: /assets/article_images/2021-11-01-oh-bo/all-time-low.JPG
 image2: /assets/article_images/2021-11-01-oh-bo/all-time-low.JPG
 excerpt: 'Channeling Bo Burnham in quarantine'

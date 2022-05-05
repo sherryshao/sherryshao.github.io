@@ -1,8 +1,8 @@
 ---
 layout: post
-title: About Taiwan
+title: '✏️ About Taiwan'
 date:   2021-11-23 09:32:17
-categories: illustrations
+categories: writing
 image: /assets/article_images/2021-11-23-taiwan/taiwan.JPG
 image2: /assets/article_images/2021-11-23-taiwan/taiwan.JPG
 excerpt: 'Thoughts about my family and Taiwan'

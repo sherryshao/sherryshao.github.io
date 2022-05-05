@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Allen Stone. ALLEN STONE. ALLEN. STONE.
+title: '🎶 Allen Stone. ALLEN STONE. ALLEN. STONE.'
 date:   2019-11-07 22:20:06
-categories: illustrations
+categories: music
 image: /assets/article_images/2019-11-07-allen-stone/karaoke-set.JPG
 image2: /assets/article_images/2019-11-07-allen-stone/karaoke-set-mobile.JPG
 excerpt: 'When our skies are grey, Allen Stone makes sure they turn blue. BLUE.'

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hugs
+title: '🎨 Hugs'
 date:   2017-04-22 16:25:30
 categories: illustrations
 image: /assets/article_images/2017-04-22-hugs/walk.jpg

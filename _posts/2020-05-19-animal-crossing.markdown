@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Animal Crossing
+title: '🎨 Animal Crossing'
 date:   2020-05-19 23:46:50
 categories: illustrations
 image: /assets/article_images/2020-05-19-animal-crossing/sheb.JPG

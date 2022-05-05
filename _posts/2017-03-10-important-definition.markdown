@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hulu(lu)*'
+title: '🔤 Hulu(lu)*'
 date:   2017-03-10 23:54:25
 categories: definitions
 image: /assets/article_images/2017-03-10-hululu/whales.jpg

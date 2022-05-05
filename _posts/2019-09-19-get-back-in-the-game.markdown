@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Back at it
+title: '🎨 Back at it'
 date:   2019-09-19 08:18:24
 categories: illustrations
 image: /assets/article_images/2019-09-19-back-at-it/back-in-vancouver.JPG

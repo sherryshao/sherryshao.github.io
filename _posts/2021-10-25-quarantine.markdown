@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Quarantine
+title: '🎶 Quarantine'
 date:   2021-10-24 19:06:34
-categories: illustrations
+categories: music
 image: /assets/article_images/2021-10-25-quarantine/just-the-two-of-us.JPG
 image2: /assets/article_images/2021-10-25-quarantine/just-the-two-of-us-mobile.JPG
 excerpt: 'What to do with 14 days, 140 square feet, and no windows?'

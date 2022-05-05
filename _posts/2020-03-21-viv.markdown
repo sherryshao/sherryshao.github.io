@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ビビアン
+title: '🎨 ビビアン'
 date:   2020-03-21 19:46:22
 categories: illustrations
 image: /assets/article_images/2020-03-21-viv/japan.JPG

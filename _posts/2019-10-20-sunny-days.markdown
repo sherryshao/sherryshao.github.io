@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sunny days
+title: '🎶 Sunny days'
 date:   2019-10-20 16:37:47
-categories: illustrations
+categories: music
 image: /assets/article_images/2019-10-20-sunny-days/allen-stone.JPG
 image2: /assets/article_images/2019-10-20-sunny-days/allen-stone-mobile.JPG
 excerpt: 'Did a cover of "Sunny days" by Allen Stone'

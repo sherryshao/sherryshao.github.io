@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Australia
+title: '🎨 Australia'
 date:   2020-01-16 20:13:58
 categories: illustrations
 image: /assets/article_images/2020-01-16-australia/blue_mountains.JPG

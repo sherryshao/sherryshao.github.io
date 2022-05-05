@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Masterchef
+title: '🎨 Masterchef'
 date:   2017-04-29 22:18:04
 categories: illustrations
 image: /assets/article_images/2017-04-29-masterchef/elephant.jpg

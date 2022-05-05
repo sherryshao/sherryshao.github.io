@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Montaña
+title: '🎨 Montaña'
 date:   2017-03-25 12:49:30
 categories: illustrations
 image: /assets/article_images/2017-04-15-montana/big_montana.JPG

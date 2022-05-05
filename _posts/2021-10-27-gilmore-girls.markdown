@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Gilmore Girls
+title: '🎶 Gilmore Girls'
 date:   2021-10-27 5:20:06
-categories: illustrations
+categories: music
 image: /assets/article_images/2021-10-27-gilmore-girls/stars-hollow.JPG
 image2: /assets/article_images/2021-10-27-gilmore-girls/stars-hollow.JPG
 excerpt: 'Gilmore Girls and the la-la songs'
