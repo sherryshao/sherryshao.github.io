@@ -1,0 +1,17 @@
+---
+layout: post
+title: '🎶 First Open Mic Experience ✨'
+date:   2022-07-09 11:56:01
+categories: music
+image: /assets/article_images/2022-07-09-open-mic/open-mic.JPG
+image2: /assets/article_images/2022-07-09-open-mic/open-mic.JPG
+excerpt: "Case of the nurps - nervous burps"
+---
+
+Joined a local choir, <a href="https://www.thechorusstudio.com/">Chorus Studio</a>, recently, and have been lurking about, contributing by blending my voice in a crowd of beautiful singers. Finally worked up the courage to take a stab at one of their open mic nights!
+
+Thanks to an mvp choir bud, a bit of evidence was recorded!
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zyUFW3JMrJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
