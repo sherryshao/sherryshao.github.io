@@ -1,0 +1,13 @@
+---
+layout: post
+title: '🎨 Lily Pads'
+date:   2024-11-04 11:27:35
+categories: illustrations
+image: /assets/article_images/2024-11-04-lily-pads/flying.JPG
+image2: /assets/article_images/2024-11-04-lily-pads/flying.JPG
+excerpt: 'new discovery, doodling on flights is an ok activity'
+---
+
+I'm a delicate little flower when it comes to flying. I get nauseous if I look out the window, my stomach is upset, my skin is on fire from something I'm allergic to, and I'm generally reduced to a pathetic being in noise cancelling headphones just trying to survive. But, barring any headaches, I've recently discovered that my body tolerates drawing on my iPad as an acceptable activity! This is quite exciting - here's a first doodle!
+
+![Lily pads]({{ site.url }}/assets/article_images/2024-11-04-lily-pads/lily-pads.PNG)
