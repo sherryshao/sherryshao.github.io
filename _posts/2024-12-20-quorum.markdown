@@ -1,0 +1,15 @@
+---
+layout: post
+title: '🎨 Quorum'
+date:   2024-12-20 14:01:06
+categories: illustrations
+image: /assets/article_images/2024-12-20-quorum/corn.JPG
+image2: /assets/article_images/2024-12-20-quorum/corn.JPG
+excerpt: 'Quorum, of the avian variety'
+---
+
+A quorum is the minimum number of members of a group necessary to constitute the group at a meeting. In a deliberative assembly (a body that uses parliamentary procedure, such as a legislature), a quorum is necessary to conduct the business of that group.
+
+The following is how I'd like to imagine why birds are always gathering in large groups, at random locations, and often, with snacks:
+
+![quorum]({{ site.url }}/assets/article_images/2024-12-20-quorum/quorum.PNG)
