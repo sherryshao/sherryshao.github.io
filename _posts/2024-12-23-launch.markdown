@@ -1,0 +1,15 @@
+---
+layout: post
+title: '🎨 Launch'
+date:   2024-12-23 16:28:37
+categories: illustrations
+image: /assets/article_images/2024-12-23-launch/launch-photo.JPG
+image2: /assets/article_images/2024-12-23-launch/launch-photo.JPG
+excerpt: 'A spectacle beyond our world'
+---
+
+Was lucky enough to witness a rocket launch recently, from a beach, no less. A SpaceX Falcon 9, lighting up the entire sky, piercing through through the clouds like it's nothing. For something that powerful and chaotic, it was quite serenely observed from afar. It was beautiful.
+
+Photo in the header, a smol recreation below!
+
+![launch]({{ site.url }}/assets/article_images/2024-12-23-launch/launch.png)
